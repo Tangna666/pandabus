@@ -14,6 +14,8 @@
 import datetime
 import unittest
 import os
+import sys
+sys.path.append("..")
 from BeautifulReport import BeautifulReport
 
 from utils.output import new_report

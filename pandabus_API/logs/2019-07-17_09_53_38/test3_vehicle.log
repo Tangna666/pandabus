@@ -1,0 +1,7 @@
+2019-07-17 09:53:38,220 [test3_vehicle.py][line:29][root][INFO] -------------------------测试用例开始执行--------------------------
+2019-07-17 09:53:38,220 [test3_vehicle.py][line:44][root][INFO] --------------------1 熊猫智行广告平台登陆接口------------------开始测试
+2019-07-17 09:53:38,220 [test3_vehicle.py][line:46][root][INFO] headers--------------------
+2019-07-17 09:53:38,526 [test3_vehicle.py][line:53][root][INFO] 正则--获取运营平台access_token150:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NjQ4MDM0OTIsInVzZXJfbmFtZSI6IjEzODg5ODEzNzM1IiwianRpIjoiMDdhNmE4YmItOThjYi00N2IyLWE5NTctYTRkNWExYjE5ZTQ5IiwiY2xpZW50X2lkIjoic3NvLXNlcnZlciIsInNjb3BlIjpbInNlcnZlciJdfQ.EXHz6hEreO0IiXxB1_WMJswrG7Pt0um-KEEmpz3T5Ro
+2019-07-17 09:53:38,527 [test3_vehicle.py][line:54][root][INFO] --------------------1 熊猫智行广告平台登陆接口------------------测试完毕
+2019-07-17 09:53:38,527 [test3_vehicle.py][line:55][root][INFO] {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NjQ4MDM0OTIsInVzZXJfbmFtZSI6IjEzODg5ODEzNzM1IiwianRpIjoiMDdhNmE4YmItOThjYi00N2IyLWE5NTctYTRkNWExYjE5ZTQ5IiwiY2xpZW50X2lkIjoic3NvLXNlcnZlciIsInNjb3BlIjpbInNlcnZlciJdfQ.EXHz6hEreO0IiXxB1_WMJswrG7Pt0um-KEEmpz3T5Ro","redirect_to":null}
+2019-07-17 09:53:39,527 [test3_vehicle.py][line:37][root][INFO] the testcase---------------1 熊猫智行广告平台登陆接口-------------- finish !!!
